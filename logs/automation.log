@@ -1,0 +1,6 @@
+01:59:19.085 [main] INFO  testCase.TC001_AccountRegistrationTest -  Validating expected message 
+01:59:21.533 [main] INFO  testCase.TC001_AccountRegistrationTest - ***************  Finished TC001_AccountRegistrationTest  **********************
+01:59:29.960 [main] INFO  testCase.TC002_LoginTest - ************* Starting TC002_LoginTest ********************
+01:59:32.869 [main] INFO  testCase.TC002_LoginTest - Clicked on Login 
+01:59:32.879 [main] INFO  testCase.TC002_LoginTest - Providing login datas.. 
+01:59:35.216 [main] INFO  testCase.TC002_LoginTest - ************* Finished TC002_LoginTest ********************
